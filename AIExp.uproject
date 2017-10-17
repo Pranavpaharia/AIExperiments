@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A1F0950F-4D4E-4A19-2463-5FA42E3E7044}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TP_ThirdPerson",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"AIModule",
+				"Engine"
+			]
+		}
+	]
+}
